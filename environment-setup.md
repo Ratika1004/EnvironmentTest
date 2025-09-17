@@ -19,8 +19,9 @@ VS CODE-[1.104.0]
 1. installed Node.js (latest version)
 2. installed react native CLI globally
 3. installed Android studio and setup android emulator.
-4. Modified App.tsx and checked for errors by modifying it.
-5. verified the project
+4. Modified App.tsx .
+5. tested hot reload by modifying it.
+6. verified the project
 
 ## deviations from the lab instructions
 1. installed the latest version of node.js , npm , android studio instead of exact version mentioned in the lab.
@@ -31,7 +32,7 @@ VS CODE-[1.104.0]
 ## Time taken for each major steps
 1. node.js and npm latest version installation - 10 minutes
 2. React native CLI setup - 30 min
-3. android studio installation - 30 min
+3. android studio installation - 20 min
 4. android emulator setup - 45 min
-5. verification and troubleshooting - 20 min 
+5. verification and troubleshooting - 30 min 
 Total time taken - 2.5 hours
